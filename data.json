@@ -1,0 +1,103 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "Firstname": "Bagban",
+      "MiddleName": "Virus",
+      "LastName": "Ilahi",
+      "CLass": "10",
+      "Div": "C",
+      "RollNo": "40",
+      "Address": "ABC Road",
+      "City": "Latur",
+      "PinCode": "4135258851",
+      "Age": "24",
+      "Name": "Bagbaan Virus",
+      "status": false
+    },
+    {
+      "id": 2,
+      "Firstname": "Patel",
+      "MiddleName": "SHakeb",
+      "LastName": "Mustahk",
+      "CLass": "12",
+      "Div": "A",
+      "RollNo": "18",
+      "Address": "Xyz",
+      "City": "Pune",
+      "PinCode": "410501",
+      "Age": "22",
+      "Name": "Patel SHoaib"
+    },
+    {
+      "id": 3,
+      "Firstname": "Patel",
+      "MiddleName": "Shahebaz",
+      "LastName": "Mustahk",
+      "CLass": "11",
+      "Div": "D",
+      "RollNo": "15",
+      "Address": "ABCD Road",
+      "City": "Udgir",
+      "PinCode": "43521",
+      "Age": "20",
+      "Name": "Patel Shabaz"
+    },
+    {
+      "id": 4,
+      "Firstname": "Shiak",
+      "MiddleName": "Tag",
+      "LastName": "M",
+      "CLass": "SE",
+      "Div": "V",
+      "RollNo": "5",
+      "Address": "BCDCDC Road",
+      "City": "Mumbai",
+      "PinCode": "410021",
+      "Age": "28",
+      "Name": "Shaik Tang"
+    },
+    {
+      "id": 5,
+      "Firstname": "Jadhav",
+      "MiddleName": "Dhanu",
+      "LastName": "BB",
+      "CLass": "YD",
+      "Div": "B",
+      "RollNo": "50",
+      "Address": "Asshiq Road",
+      "City": "AsshiqPoor",
+      "PinCode": "102013",
+      "Age": "38",
+      "Name": "Dhanu Jadhv"
+    },
+    {
+      "id": 6,
+      "Firstname": "Juber",
+      "MiddleName": "Ali",
+      "LastName": "Sayyad",
+      "CLass": "YD",
+      "Div": "B",
+      "RollNo": "20",
+      "Address": "Asshiq Road",
+      "City": "Asshiq Nagar",
+      "PinCode": "00221",
+      "Age": "39",
+      "Name": "Juber Sayyad"
+    },
+    {
+      "id": 7,
+      "Firstname": "abc",
+      "MiddleName": "bbbb",
+      "LastName": "done",
+      "CLass": "8",
+      "Div": "B",
+      "RollNo": "20",
+      "Address": "Xyz",
+      "City": "mh",
+      "PinCode": "02.36",
+      "Age": "84",
+      "Name": "ABCD SHARMA"
+    }
+  ]
+}
